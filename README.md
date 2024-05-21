@@ -14,6 +14,8 @@ Die letzte Aufgabe wäre es dann, die Outputs von dem Modell Meta 3, auch mit an
 
 (Diese Fragestellung wurde zusammen mit Jonathan Voß aus dem Kurs 'Wie konkurrenzfähig sind Open LLMs?' erarbeitet. Jeder von uns arbeitet mit einem anderen Modell und benutzt einen jeweils anderen Datensatz).
 
+
+
 Aufgabe 2: Bezug zu Datenbasis (Medium, Sprache, Quelle)?
 
  -Medium: Text
@@ -22,11 +24,17 @@ Aufgabe 2: Bezug zu Datenbasis (Medium, Sprache, Quelle)?
 
  -Quelle: Internet. Szenario 1: Youtube Kommentare. Szenario 2: Witze-Webseite. Szenario 3: Reime-Webseite. Szenario 4: Alltägliche Sätze (Mischung aus selbstgeschriebene Beispielsätze und Sätze aus dem Internet).
 
+ 
+
 Aufgabe 3: OpenLLM, das verwendet werden soll?
-  Meta 3 - https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct
+
+Meta 3 - https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct
+
+  
 
 Aufgabe 4: Experimentdesign - wie wollen Sie vorgehen und wie die Ergebnisse beurteilen? Testen Sie vielleicht, wie geläufige LLMs die Aufgaben erledigen?
-=> Zu jedem Szenario soll eine Tabelle (GoogleDoc) erstellt werden, die dann ausgewertet werden soll. Dies soll im Hinblick auf alle Szenarien gemacht werden.
-=> Dann soll auch noch eine Tabelle erstellt werden, die die Unterschiede auf Englisch und deutsch darstellt.
-=> Bei der dritten Aufgabe, soll dann noch ein genereller Vergleich (auch in einer Tabelle) zwischen Meta 3 und ChatGPT und Mistral veranschaulicht werden.
+
+1. Zu jedem Szenario soll eine Tabelle (GoogleDoc) erstellt werden, die dann ausgewertet werden soll. Dies soll im Hinblick auf alle Szenarien gemacht werden.
+2. Dann soll auch noch eine Tabelle erstellt werden, die die Unterschiede auf Englisch und deutsch darstellt.
+3. Bei der dritten Aufgabe, soll dann noch ein genereller Vergleich (auch in einer Tabelle) zwischen Meta 3 und ChatGPT und Mistral veranschaulicht werden.
 
