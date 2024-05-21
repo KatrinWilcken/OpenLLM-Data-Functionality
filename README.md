@@ -14,10 +14,13 @@ Die letzte Aufgabe wäre es dann, die Outputs von dem Modell Meta 3, auch mit an
 
 (Diese Fragestellung wurde zusammen mit Jonathan Voß aus dem Kurs 'Wie konkurrenzfähig sind Open LLMs?' erarbeitet. Jeder von uns arbeitet mit einem anderen Modell und benutzt einen jeweils anderen Datensatz).
 
-Aufgabe 2: Bezug zu Datenbasis (Medium, Sprache, Quelle)
-   Medium: Text
-   Sprache: Hauptsprache Englisch und zusätzlich Deutsch
-   Quelle: Internet. Szenario 1: Youtube Kommentare. Szenario 2: Witze-Webseite. Szenario 3: Reime-Webseite. Szenario 4: Alltägliche Sätze (Mischung aus selbstgeschriebene Beispielsätze und Sätze aus dem Internet).
+Aufgabe 2: Bezug zu Datenbasis (Medium, Sprache, Quelle)?
+
+Medium: Text
+
+Sprache: Hauptsprache Englisch und zusätzlich Deutsch
+
+Quelle: Internet. Szenario 1: Youtube Kommentare. Szenario 2: Witze-Webseite. Szenario 3: Reime-Webseite. Szenario 4: Alltägliche Sätze (Mischung aus selbstgeschriebene Beispielsätze und Sätze aus dem Internet).
 
 Aufgabe 3: OpenLLM, das verwendet werden soll?
   Meta 3 - https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct
