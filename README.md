@@ -9,7 +9,7 @@ Es soll das Natrual Language Processing und das Masked Language Processing in Me
   
 Dann soll noch der Unterschied zwischen der englischen und deutschen Sprache beim Output dargestellt werden. Dies soll vor allem durch die Beispiele mit den Witzen (Szenario 2) veranschaulicht werden. Da sollen die Ausgaben nicht nur auf Englisch, sondern auch auf Deutsch ausgegeben werden.
 
-Die letzte Aufgabe wäre es dann, die Outputs von dem Modell Meta 3, auch mit anderen bekannten Modellen zu vergleichen. Beispielsweise: ChatGPT und Mistral.
+EIn weiterer Teil der Aufgabe, wäre es dann, die Outputs von dem Modell Meta 3, auch mit anderen bekannten Modellen zu vergleichen. Beispielsweise: ChatGPT und Mistral.
 
 (Diese Fragestellung wurde zusammen mit Jonathan Voß aus dem Kurs 'Wie konkurrenzfähig sind Open LLMs?' erarbeitet. Jeder von uns arbeitet mit einem anderen Modell und benutzt einen jeweils anderen Datensatz).
 
