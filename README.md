@@ -7,7 +7,7 @@ Es soll das Natrual Language Processing und das Masked Language Processing in Me
 2. Szenario: Die OpenLLM soll Witze beenden. Man gibt de OpenLLM Anfänge von Sätzen vor und die soll dann daraus Witze kreieren. Dabei steht natürlich im Vordergrund die Frage, ob der Witz an sich funktioniert. 
 3. Szenario: Man gibt der OpenLLM Sätze oder Reime vor und die OpenLLM soll einen Reim dazu erstellen. 
   
-Dann soll noch der Unterschied zwischen der englischen und deutschen Sprache beim Output dargestellt werden. Dies soll vor allem durch die Beispiele mit den Witzen (Szenario 2) veranschaulicht werden. Da sollen die Ausgaben nicht nur auf Englisch, sondern auch auf Deutsch ausgegeben werden.
+Dann soll noch der Unterschied zwischen der englischen und deutschen Sprache beim Output dargestellt werden. Dies soll durch die Beispiele mit den Witzen (Szenario 2) veranschaulicht werden.
 
 EIn weiterer Teil der Aufgabe, wäre es dann, die Outputs von dem Modell Meta 3, auch mit anderen bekannten Modellen zu vergleichen. Beispielsweise: ChatGPT und Mistral.
 
